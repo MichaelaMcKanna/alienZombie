@@ -1,4 +1,5 @@
 # aliengame
+just a quick little game built to practice Vue and Vuex state management based on Sarah Drasner's alien zombie game
 
 ## Project setup
 ```
